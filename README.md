@@ -1,2 +1,2 @@
-# copy-constructors-cpp
-Explanation of copy constructors in c++
+# copy-assignment-operator-cpp
+Explanation of copy assignment operator in c++
